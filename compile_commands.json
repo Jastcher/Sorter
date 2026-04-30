@@ -1,122 +1,122 @@
 [
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/glad.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/glad.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/glad.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/glad.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/glad.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/glad.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/glad.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/imgui.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/imgui.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/imgui.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/imgui.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/imgui.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_demo.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_demo.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_demo.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_demo.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/imgui_demo.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/imgui_demo.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/imgui_demo.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_draw.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_draw.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_draw.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_draw.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/imgui_draw.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/imgui_draw.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/imgui_draw.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_impl_glfw.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_impl_glfw.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_impl_glfw.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_impl_glfw.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/imgui_impl_glfw.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/imgui_impl_glfw.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/imgui_impl_glfw.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_impl_opengl3.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_impl_opengl3.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_impl_opengl3.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_impl_opengl3.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/imgui_impl_opengl3.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/imgui_impl_opengl3.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/imgui_impl_opengl3.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_tables.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_tables.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_tables.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_tables.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/imgui_tables.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/imgui_tables.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/imgui_tables.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_widgets.cpp.o -c /home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_widgets.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/Vendor/src/imgui_widgets.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/Vendor/src/imgui_widgets.cpp.o -c /home/jastcher/Programming/Sorter/Vendor/src/imgui_widgets.cpp",
+  "file": "/home/jastcher/Programming/Sorter/Vendor/src/imgui_widgets.cpp",
   "output": "CMakeFiles/Application.dir/Vendor/src/imgui_widgets.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Application.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Core/Application.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Core/Application.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Application.cpp.o -c /home/jastcher/Programming/Sorter/src/Core/Application.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Core/Application.cpp",
   "output": "CMakeFiles/Application.dir/src/Core/Application.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Sorter.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Core/Sorter.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Core/Sorter.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Sorter.cpp.o -c /home/jastcher/Programming/Sorter/src/Core/Sorter.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Core/Sorter.cpp",
   "output": "CMakeFiles/Application.dir/src/Core/Sorter.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Sorters.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Core/Sorters.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Core/Sorters.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Sorters.cpp.o -c /home/jastcher/Programming/Sorter/src/Core/Sorters.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Core/Sorters.cpp",
   "output": "CMakeFiles/Application.dir/src/Core/Sorters.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Sounds.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Core/Sounds.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Core/Sounds.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Sounds.cpp.o -c /home/jastcher/Programming/Sorter/src/Core/Sounds.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Core/Sounds.cpp",
   "output": "CMakeFiles/Application.dir/src/Core/Sounds.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/UI.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Core/UI.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Core/UI.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/UI.cpp.o -c /home/jastcher/Programming/Sorter/src/Core/UI.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Core/UI.cpp",
   "output": "CMakeFiles/Application.dir/src/Core/UI.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Window.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Core/Window.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Core/Window.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/Window.cpp.o -c /home/jastcher/Programming/Sorter/src/Core/Window.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Core/Window.cpp",
   "output": "CMakeFiles/Application.dir/src/Core/Window.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/frameBuffer.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Core/frameBuffer.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Core/frameBuffer.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Core/frameBuffer.cpp.o -c /home/jastcher/Programming/Sorter/src/Core/frameBuffer.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Core/frameBuffer.cpp",
   "output": "CMakeFiles/Application.dir/src/Core/frameBuffer.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Event/event.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Event/event.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Event/event.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Event/event.cpp.o -c /home/jastcher/Programming/Sorter/src/Event/event.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Event/event.cpp",
   "output": "CMakeFiles/Application.dir/src/Event/event.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Renderer/Mesh.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Renderer/Mesh.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Renderer/Mesh.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Renderer/Mesh.cpp.o -c /home/jastcher/Programming/Sorter/src/Renderer/Mesh.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Renderer/Mesh.cpp",
   "output": "CMakeFiles/Application.dir/src/Renderer/Mesh.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Renderer/Renderer.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Renderer/Renderer.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Renderer/Renderer.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Renderer/Renderer.cpp.o -c /home/jastcher/Programming/Sorter/src/Renderer/Renderer.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Renderer/Renderer.cpp",
   "output": "CMakeFiles/Application.dir/src/Renderer/Renderer.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Renderer/Shader.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/Renderer/Shader.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/Renderer/Shader.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/Renderer/Shader.cpp.o -c /home/jastcher/Programming/Sorter/src/Renderer/Shader.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/Renderer/Shader.cpp",
   "output": "CMakeFiles/Application.dir/src/Renderer/Shader.cpp.o"
 },
 {
-  "directory": "/home/jastcher/Programming/c++/Sorting/Build",
-  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/c++/Sorting/src -I/home/jastcher/Programming/c++/Sorting/Vendor/include -I/home/jastcher/Programming/c++/Sorting/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/main.cpp.o -c /home/jastcher/Programming/c++/Sorting/src/main.cpp",
-  "file": "/home/jastcher/Programming/c++/Sorting/src/main.cpp",
+  "directory": "/home/jastcher/Programming/Sorter/Build",
+  "command": "/usr/bin/clang++  -I/home/jastcher/Programming/Sorter/src -I/home/jastcher/Programming/Sorter/Vendor/include -I/home/jastcher/Programming/Sorter/Vendor/include/imgui -std=gnu++17 -Wall -Wextra -Wpedantic -g -o CMakeFiles/Application.dir/src/main.cpp.o -c /home/jastcher/Programming/Sorter/src/main.cpp",
+  "file": "/home/jastcher/Programming/Sorter/src/main.cpp",
   "output": "CMakeFiles/Application.dir/src/main.cpp.o"
 }
 ]

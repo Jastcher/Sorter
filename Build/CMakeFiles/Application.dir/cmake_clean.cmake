@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Application.dir/link.d"
   "Application"
   "Application.pdb"
   "CMakeFiles/Application.dir/Vendor/src/glad.cpp.o"
