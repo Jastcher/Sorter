@@ -1,3 +1,0 @@
-/home/jastcher/Programming/Sorter/Build/CMakeFiles/Application.dir
-/home/jastcher/Programming/Sorter/Build/CMakeFiles/edit_cache.dir
-/home/jastcher/Programming/Sorter/Build/CMakeFiles/rebuild_cache.dir
